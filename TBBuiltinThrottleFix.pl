@@ -1,3 +1,12 @@
+# TBBuiltinThrottleFix - A apche for MT::App::Trackback::_builtin_throttle.
+#
+# $Id$
+#
+# This software is provided as-is. You may use it for commercial or 
+# personal use. If you distribute it, please keep this notice intact.
+#
+# Copyright (c) 2006 Hirotaka Ogawa
+
 package MT::Plugin::TBBuiltinThrottleFix;
 use strict;
 use MT;
