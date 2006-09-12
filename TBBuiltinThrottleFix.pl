@@ -1,4 +1,4 @@
-# TBBuiltinThrottleFix - A apche for MT::App::Trackback::_builtin_throttle.
+# TBBuiltinThrottleFix - A patch for MT::App::Trackback::_builtin_throttle.
 #
 # $Id$
 #
